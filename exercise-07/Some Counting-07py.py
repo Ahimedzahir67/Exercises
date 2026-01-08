@@ -12,4 +12,5 @@ print("\n50 down to 10 (step 2):")
 for i in range(50, 9, -2): print(i, end=" ")
 
 print("\n100 to 200 (step 5):")
+
 for i in range(100, 201, 5): print(i, end=" ")
